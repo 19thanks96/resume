@@ -53,8 +53,7 @@ Gravity simulation: objects falling to the ground with acceleration.
 
 > - open a browser with a new fingerprint and settings
 > - create a backup email address and Google account
-> - save data locally
-> - Save email and passwords to Exel
+> - saves emails and passwords in Exel format. Profile locally on your computer 
 
 # Education
 
@@ -100,5 +99,6 @@ Degree - `Bachelor` Programm Subject Area `Geodesy and land management`
 
 - Date of birth: 31.07.1996
 - Address: Kyiv 04208, Ukraine
-- Phone number: +380501940139
+- Phone number: +380501940139rm CV.pdf
+pretty-md-pdf -i CV.md -c config.json
 - Email adress: 19thanks96@gmail.com
