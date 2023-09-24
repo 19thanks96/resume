@@ -7,7 +7,7 @@
 - Javascript, React, es6 module
 - JSON, API, telegrafJs, Sql, node.js express
 - Puppeteer, Brower Automation Studio, selenium
-- Game development, animation, web game performance
+- Game development, animation, web game performance, Chrome Extensions
 - Git, git bash
 
 ## Experience
