@@ -4,5 +4,15 @@ h1 {
 
 h2 {
 	border-bottom: 1px solid black;
-  padding-bottom: 12px;
+  	padding-bottom: 12px;
+}
+p:has(img){}
+p img{
+	width: 100px;
+	border-radius: 20px;
+	float: inline-end
+}
+
+#skills ~ ul:first-of-type {
+	background-color: aqua;
 }

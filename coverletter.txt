@@ -1,7 +1,0 @@
-Привіт) Я шукаю свою першу роботу в айті.
-Протягом року навчаючись створив 10+ проектів, посилання на гітхаб у резюме. 
-Працюю з технологіями:
-- React, NodeJs, Typescript, HTML5, css3, sass, Javascript,  
-- express, mongoDb
-- Game development, web development
-- Git, git bash
