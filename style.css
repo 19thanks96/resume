@@ -1,18 +1,21 @@
+body{
+	margin: 20px 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+p,
+blockquote,
+ul{
+	align-self: flex-start;
+}
+
 h1 {
-	border-bottom: none;
+	border-bottom:  3px solid black;
 }
 
 h2 {
 	border-bottom: 1px solid black;
   	padding-bottom: 12px;
-}
-p:has(img){}
-p img{
-	width: 100px;
-	border-radius: 20px;
-	float: inline-end
-}
-
-#skills ~ ul:first-of-type {
-	background-color: aqua;
 }

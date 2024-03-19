@@ -1,21 +1,25 @@
 # Andrievskiy Ivan
 
-Junior Frontend Engineer
-
+#### Frontend Engineer
 
 ## Skills
 
 - HTML5, css3, sass
-- flex, grid, keyframes
-- Javascript, React, es6 module
-- JSON, API, telegrafJs, Sql, node.js express
+- lottie-animation, Adobe Animate CC
+- flex, grid, keyframes, animation, canvas
+- Javascript, TypeScript, React, es6 module, Svelte
+- JSON, API, telegrafJs, node.js express, Tailwind
 - Puppeteer, Brower Automation Studio, selenium
-- Game development, animation, web game performance, Chrome Extensions
+- Game development, animation, web game performance, Chrome Extensions, cross-platform layout
 - Git, git bash
 
 ## Work Experience
 
-### [September 2023 - Present] Front-End Developer at Bfmriya.org.ua
+### [January 2024 - March 2024 ] Front-End Developer at moon-client
+
+Development of cross-platform layout. Svelte App with lottie-animation, keyframes animation, canvas for scratching mechanic.
+
+### [September 2023 - December 2024] Front-End Developer at Bfmriya.org.ua
 
 The 'Mriya.ua' Charitable Foundation is about helpingto Ukrainians who suffered during the war.
 React application with paypall, googleMaps, monobank Jar, i18.
@@ -23,8 +27,11 @@ React application with paypall, googleMaps, monobank Jar, i18.
 > - Github: [https://github.com/19thanks96/bfmriya](https://github.com/19thanks96/bfmriya)
 > - Deploy version: [https://19thanks96.github.io/bfmriya/#/](https://19thanks96.github.io/bfmriya/#/)
 
-### [June 2023 - September 2023] Automate the creation of Google Mail accs
-### [Oct 2022 - Present] Developing HTML5 game with friends
+### [June 2023 - September 2023] Automate the creation of Google Mail accounts
+
+Automated create Google Mail with Puppeteer, Brower Automation Studio, and Selenium.
+Using proxy, find by selectors, use chrome extension to pass capcha, buy phone numbers, create additional accounts in Rumbler, save information about accounts in Microsoft Excel.
+### [Oct 2022 - Present] Developing HTML5 game
 
 Ghost of Kyiv - Javascript arcade game with player flying plane, fire rockets into enemies.
 Game includes Intro, HP, Enemy HP, sound effects, fire rockets, keyboard controls, mobile controls.
@@ -95,4 +102,6 @@ Degree - `Bachelor` Programm Subject Area `Geodesy and land management`
 - Date of birth: 31.07.1996
 - Address: Kyiv 04208, Ukraine
 - Phone number: +38-050-194-01-39
-- Email adress: 19thanks96@gmail.com
+- Email address: 19thanks96@gmail.com
+- LinkedIn: [@ivan-andrievsky](https://www.linkedin.com/in/ivan-andrievsky/)
+- Telegramm: [@hellogamer3](https://t.me/hellogamer3)
